@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wyatlee252
 - 👀 I’m interested in coding a better climbing app
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Springboot
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I climb a lot
 
